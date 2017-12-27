@@ -1,0 +1,12 @@
+H:\7 Code\VB\myTunes\myTunes\bin\Debug\myTunes.exe.config
+H:\7 Code\VB\myTunes\myTunes\obj\Debug\myTunes.vbprojResolveAssemblyReference.cache
+H:\7 Code\VB\myTunes\myTunes\obj\Debug\myTunes.Resources.resources
+H:\7 Code\VB\myTunes\myTunes\obj\Debug\myTunes.vbproj.GenerateResource.Cache
+H:\7 Code\VB\myTunes\myTunes\obj\Debug\myTunes.xml
+H:\7 Code\VB\myTunes\myTunes\bin\Debug\myTunes.exe
+H:\7 Code\VB\myTunes\myTunes\bin\Debug\myTunes.pdb
+H:\7 Code\VB\myTunes\myTunes\bin\Debug\myTunes.xml
+H:\7 Code\VB\myTunes\myTunes\obj\Debug\myTunes.exe
+H:\7 Code\VB\myTunes\myTunes\obj\Debug\myTunes.pdb
+H:\7 Code\VB\myTunes\myTunes\obj\Debug\myTunes.frmMain.resources
+H:\7 Code\VB\myTunes\myTunes\obj\Debug\myTunes.frmTax.resources

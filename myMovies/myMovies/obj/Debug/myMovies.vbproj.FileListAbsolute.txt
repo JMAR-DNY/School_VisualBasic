@@ -1,0 +1,12 @@
+H:\7 Code\VB\myMovies\myMovies\bin\Debug\myMovies.exe.config
+H:\7 Code\VB\myMovies\myMovies\obj\Debug\myMovies.vbprojResolveAssemblyReference.cache
+H:\7 Code\VB\myMovies\myMovies\obj\Debug\myMovies.Resources.resources
+H:\7 Code\VB\myMovies\myMovies\obj\Debug\myMovies.vbproj.GenerateResource.Cache
+H:\7 Code\VB\myMovies\myMovies\obj\Debug\myMovies.xml
+H:\7 Code\VB\myMovies\myMovies\bin\Debug\myMovies.exe
+H:\7 Code\VB\myMovies\myMovies\bin\Debug\myMovies.pdb
+H:\7 Code\VB\myMovies\myMovies\bin\Debug\myMovies.xml
+H:\7 Code\VB\myMovies\myMovies\obj\Debug\myMovies.exe
+H:\7 Code\VB\myMovies\myMovies\obj\Debug\myMovies.pdb
+H:\7 Code\VB\myMovies\myMovies\obj\Debug\myMovies.frmPassword.resources
+H:\7 Code\VB\myMovies\myMovies\obj\Debug\myMovies.frmMain.resources
