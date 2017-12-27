@@ -1,0 +1,11 @@
+H:\7 Code\VB\Academic\Academic\bin\Debug\Academic.exe.config
+H:\7 Code\VB\Academic\Academic\obj\Debug\Academic.vbprojResolveAssemblyReference.cache
+H:\7 Code\VB\Academic\Academic\obj\Debug\Academic.frmMain.resources
+H:\7 Code\VB\Academic\Academic\obj\Debug\Academic.Resources.resources
+H:\7 Code\VB\Academic\Academic\obj\Debug\Academic.vbproj.GenerateResource.Cache
+H:\7 Code\VB\Academic\Academic\obj\Debug\Academic.xml
+H:\7 Code\VB\Academic\Academic\bin\Debug\Academic.exe
+H:\7 Code\VB\Academic\Academic\bin\Debug\Academic.pdb
+H:\7 Code\VB\Academic\Academic\bin\Debug\Academic.xml
+H:\7 Code\VB\Academic\Academic\obj\Debug\Academic.exe
+H:\7 Code\VB\Academic\Academic\obj\Debug\Academic.pdb

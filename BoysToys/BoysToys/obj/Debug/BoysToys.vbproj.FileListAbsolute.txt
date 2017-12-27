@@ -1,0 +1,12 @@
+H:\7 Code\VB\BoysToys\BoysToys\bin\Debug\BoysToys.exe.config
+H:\7 Code\VB\BoysToys\BoysToys\obj\Debug\BoysToys.vbprojResolveAssemblyReference.cache
+H:\7 Code\VB\BoysToys\BoysToys\obj\Debug\BoysToys.frmMain.resources
+H:\7 Code\VB\BoysToys\BoysToys\obj\Debug\BoysToys.Resources.resources
+H:\7 Code\VB\BoysToys\BoysToys\obj\Debug\BoysToys.vbproj.GenerateResource.Cache
+H:\7 Code\VB\BoysToys\BoysToys\obj\Debug\BoysToys.xml
+H:\7 Code\VB\BoysToys\BoysToys\bin\Debug\BoysToys.exe
+H:\7 Code\VB\BoysToys\BoysToys\bin\Debug\BoysToys.pdb
+H:\7 Code\VB\BoysToys\BoysToys\bin\Debug\BoysToys.xml
+H:\7 Code\VB\BoysToys\BoysToys\obj\Debug\BoysToys.exe
+H:\7 Code\VB\BoysToys\BoysToys\obj\Debug\BoysToys.pdb
+H:\7 Code\VB\BoysToys\BoysToys\obj\Debug\BoysToys.frmPicture.resources
