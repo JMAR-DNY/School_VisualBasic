@@ -1,0 +1,22 @@
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\bin\Debug\Windchill.exe.config
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\bin\Debug\Windchill.exe
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\bin\Debug\Windchill.pdb
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\bin\Debug\Windchill.xml
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\obj\Debug\Windchill.vbprojResolveAssemblyReference.cache
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\obj\Debug\Windchill.Resources.resources
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\obj\Debug\Windchill.vbproj.GenerateResource.Cache
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\obj\Debug\Windchill.exe
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\obj\Debug\Windchill.xml
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\obj\Debug\Windchill.pdb
+C:\Users\JMAR_\OneDrive\Documents\Local Code Storage\VB\Windchill\Windchill\obj\Debug\Windchill.frmMain.resources
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\bin\Debug\Windchill.exe.config
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\obj\Debug\Windchill.exe
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\obj\Debug\Windchill.xml
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\obj\Debug\Windchill.pdb
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\bin\Debug\Windchill.exe
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\bin\Debug\Windchill.pdb
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\bin\Debug\Windchill.xml
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\obj\Debug\Windchill.vbprojResolveAssemblyReference.cache
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\obj\Debug\Windchill.frmMain.resources
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\obj\Debug\Windchill.Resources.resources
+C:\Users\JMAR\Downloads\temp1-master\temp1-master\Windchill\Windchill\obj\Debug\Windchill.vbproj.GenerateResource.Cache
